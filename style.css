@@ -6,3 +6,12 @@ h1 {
   color: green;
   font-size: 24px;
 }
+
+p {
+  margin-top: 20px;
+  text-align: right;
+}
+
+a {
+  text-decoration: underline;
+}
