@@ -3,6 +3,7 @@
   "repository": "https://github.com/ihor-romaniuk/vite",
   "homepage-github": "https://ihor-romaniuk.github.io/vite/",
   "homepage-netlify": "https://master--ihor-romaniuk-vite.netlify.app/",
+  "homepage-vercel": "https://vite-24tsjzske-ihor-romaniuk.vercel.app/",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
